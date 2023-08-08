@@ -14,4 +14,4 @@ for i in range(100* 1000* 10):
     output = open('Tokens.txt' , 'a')
     output.write(resualt + '\n')
 
-    print(f'' + resualt, end='')
+    print(f'' + resualt)
